@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I develop everything using node.",
     email: "developerayushanand@gmail.com",
     linkedin: "",
-    github: "morethanmin",
+    github: "Developer-Ayush",
     instagram: "ayushanand141210020511",
   },
   projects: [
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://ayushanand-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
