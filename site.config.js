@@ -31,7 +31,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: "1a290815e44a8045b7bbcbb8b89bad22",
+    pageId: process.env.NOTION_PAGE_ID,
   },
 
   // plugin configuration (optional)
